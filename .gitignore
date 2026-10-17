@@ -1,0 +1,13 @@
+# trained weights (150-300 MB each) and sorted image folders (32 GB)
+model/
+classificationfolder/
+*.pth
+*.pt
+*.webp
+*.jpg
+*.png
+.venv/
+.idea/
+__pycache__/
+.stfolder/
+.stignore
