@@ -27,3 +27,10 @@ Weights are not included (150-300 MB each); train one with the Train tab. Checkp
 ## License
 
 [PolyForm Noncommercial 1.0.0](LICENSE). Personal, research and hobby use are allowed; commercial use is not.
+
+## Launch the GUI
+
+Linux: `./run.sh`  
+Windows: `run_win.bat`
+
+The first run creates a `.venv` and installs `requirements-gui.txt`; later runs start immediately.
